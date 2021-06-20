@@ -8,8 +8,10 @@ Front-end : HTML, CSS, Bootstrap & Javascript;
 Back-end : PHP;
 Database : MySQL
 
-Database contains two Tables- account Table & transaction Table
+bank Database contains two Tables- account Table & transaction Table
 
-User table have basic fields such as .
-Transaction table records all transfers happened along with their time.
+account table have fields such as salutation,customer name,email,IFSC code,account type,contact number,customer city,gender,dob,balance,branch name,account number.
+Transaction table records all transfers.
+
+
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
