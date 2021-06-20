@@ -28,5 +28,3 @@
 Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
 
 Below are the screenshots of the website
-
-<img width="649" alt="1" src="https://user-images.githubusercontent.com/67001353/102710492-bc08e200-42d8-11eb-8709-631c7f12afc2.png">
